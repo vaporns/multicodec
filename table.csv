@@ -1,3 +1,4 @@
 codec,              description,              code
-ipfs,,0
-swarm,,1
+,reserved,0
+ipfs,,1
+swarm,,2
